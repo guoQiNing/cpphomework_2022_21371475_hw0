@@ -5,6 +5,6 @@ public abstract class Main {
         int a = 23;
 //        Scanner in = new Scanner(System.in);
         System.out.println("WTF:" + a + "\n");
-        System.out.println("Hello fuck you\n");
+        System.out.println("Hello fk you\n");
     }
 }
